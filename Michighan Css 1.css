@@ -1,0 +1,28 @@
+header, footer{
+    background-color: #FFFFFF;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: tomato;
+}
+h2{
+    background-color: tomato;
+    color: white;
+}
+details{
+    font-style: italic;
+    
+}
+summary{
+    font-style: normal;
+    overflow-wrap: inherit;
+}
+body{background-color: gray;}
+section{
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+}
+footer{
+    background-color: gray;
+}
